@@ -47,6 +47,6 @@
     "electron-packager": "^13.1.1"
   },
   "dependencies": {
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   }
 }
